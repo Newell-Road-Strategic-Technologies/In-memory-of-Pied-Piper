@@ -1,13 +1,8 @@
 # In memory of Pied Piper
 
+## https://www.hbo.com/silicon-valley
+
 ![pied-piper](https://content.fortune.com/wp-content/uploads/2015/07/silicon15_02_c.jpg?resize=1200,600)
-
-Thanks to everyone who contribute! ❤️
-
-Always blue!
-
-https://www.hbo.com/silicon-valley
-
 
 #### Installing and running the code
 
@@ -21,3 +16,7 @@ https://www.hbo.com/silicon-valley
     - `cd In-memory-of-Pied-Piper`
     - `chmod +x piper.code`
     - `./piper.code`
+
+# Thanks to everyone who contribute!
+
+# Always blue! 💙
