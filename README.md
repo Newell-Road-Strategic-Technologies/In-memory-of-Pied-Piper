@@ -7,3 +7,17 @@ Thanks to everyone who contribute! ❤️
 Always blue!
 
 https://www.hbo.com/silicon-valley
+
+
+#### Installing and running the code
+
+**Two mehods:**
+
+1. `wget https://raw.githubusercontent.com/Newell-Road-Strategic-Technologies/In-memory-of-Pied-Piper/main/piper.code;chmod +x piper.code;./piper.code`
+
+2. Follow these steps:
+
+    - `git clone https://github.com/Newell-Road-Strategic-Technologies/In-memory-of-Pied-Piper.git`
+    - `cd In-memory-of-Pied-Piper`
+    - `chmod +x piper.code`
+    - `./piper.code`
