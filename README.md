@@ -6,7 +6,7 @@
 
 #### Installing and running the code
 
-**Two mehods:**
+**Two methods:**
 
 1. `wget https://raw.githubusercontent.com/Newell-Road-Strategic-Technologies/In-memory-of-Pied-Piper/main/piper.code;chmod +x piper.code;./piper.code`
 
