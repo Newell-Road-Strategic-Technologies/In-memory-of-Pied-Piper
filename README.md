@@ -17,6 +17,6 @@
     - `chmod +x piper.code`
     - `./piper.code`
 
-# Thanks to everyone who contributed!
+**Thanks to everyone who contributed!**
 
 # Always blue! 💙
